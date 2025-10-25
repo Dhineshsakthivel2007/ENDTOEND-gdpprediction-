@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/b7ce2a63cc8b4a809d6bb2e7314c58fa/artifacts
+end_time: 1761413769610
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: b7ce2a63cc8b4a809d6bb2e7314c58fa
+run_name: caring-rat-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761413766122
+status: 3
+tags: []
+user_id: DHINESH

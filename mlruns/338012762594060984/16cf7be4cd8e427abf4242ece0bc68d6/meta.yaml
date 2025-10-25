@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/16cf7be4cd8e427abf4242ece0bc68d6/artifacts
+end_time: 1761413611678
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: 16cf7be4cd8e427abf4242ece0bc68d6
+run_name: zealous-hen-951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761413608182
+status: 3
+tags: []
+user_id: DHINESH

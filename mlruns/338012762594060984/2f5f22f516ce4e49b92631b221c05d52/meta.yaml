@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/2f5f22f516ce4e49b92631b221c05d52/artifacts
+end_time: 1761413848684
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: 2f5f22f516ce4e49b92631b221c05d52
+run_name: amazing-finch-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761413843959
+status: 3
+tags: []
+user_id: DHINESH

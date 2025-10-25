@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/0d3abeb9190e4a8ea48f14f5b32ddfd2/artifacts
+end_time: 1761413766114
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: 0d3abeb9190e4a8ea48f14f5b32ddfd2
+run_name: amusing-ray-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761413762034
+status: 3
+tags: []
+user_id: DHINESH

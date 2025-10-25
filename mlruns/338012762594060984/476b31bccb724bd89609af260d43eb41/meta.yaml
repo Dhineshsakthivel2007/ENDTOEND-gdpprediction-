@@ -1,5 +1,5 @@
 artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/476b31bccb724bd89609af260d43eb41/artifacts
-end_time: null
+end_time: 1761412697262
 entry_point_name: ''
 experiment_id: '338012762594060984'
 lifecycle_stage: active
@@ -9,6 +9,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1761411757401
-status: 1
+status: 3
 tags: []
 user_id: DHINESH

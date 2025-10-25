@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/3a1b532718e04386a429464facf2445f/artifacts
+end_time: 1761413544249
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: 3a1b532718e04386a429464facf2445f
+run_name: serious-deer-679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761413488305
+status: 3
+tags: []
+user_id: DHINESH

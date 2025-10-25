@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/56c3c11c4aa845d68429bbc12834fb88/artifacts
+end_time: 1761414383005
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: 56c3c11c4aa845d68429bbc12834fb88
+run_name: caring-hawk-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761414364772
+status: 4
+tags: []
+user_id: DHINESH

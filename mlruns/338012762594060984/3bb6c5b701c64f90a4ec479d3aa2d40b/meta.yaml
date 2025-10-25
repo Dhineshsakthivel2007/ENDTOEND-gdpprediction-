@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/3bb6c5b701c64f90a4ec479d3aa2d40b/artifacts
+end_time: 1761413560687
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: 3bb6c5b701c64f90a4ec479d3aa2d40b
+run_name: bouncy-croc-816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761413556838
+status: 3
+tags: []
+user_id: DHINESH
