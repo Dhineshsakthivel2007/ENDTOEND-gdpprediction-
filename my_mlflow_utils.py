@@ -5,10 +5,9 @@ def run_models(models, x_train_scaled, y_train, x_test_scaled, y_test):
     from sklearn.metrics import r2_score, mean_squared_error
     import numpy as np
 
-    # Set fixed CV splitter for reproducibility
+    
     cv = KFold(n_splits=5, shuffle=True, random_state=42)
 
-    # Parameter grids
     param_grids = {
         "RidgeCV": {"alphas": [[0.1, 1.0, 10.0]]}, 
         "LassoCV": {"alphas": [[0.01, 0.1, 1.0]]},
