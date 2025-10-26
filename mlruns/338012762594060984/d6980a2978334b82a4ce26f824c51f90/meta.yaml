@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/d6980a2978334b82a4ce26f824c51f90/artifacts
+end_time: 1761472464809
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: d6980a2978334b82a4ce26f824c51f90
+run_name: valuable-mule-87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761472266969
+status: 3
+tags: []
+user_id: DHINESH

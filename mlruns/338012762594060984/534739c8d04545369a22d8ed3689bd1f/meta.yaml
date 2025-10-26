@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/534739c8d04545369a22d8ed3689bd1f/artifacts
+end_time: 1761472477849
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: 534739c8d04545369a22d8ed3689bd1f
+run_name: ridge
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761472473841
+status: 3
+tags: []
+user_id: DHINESH

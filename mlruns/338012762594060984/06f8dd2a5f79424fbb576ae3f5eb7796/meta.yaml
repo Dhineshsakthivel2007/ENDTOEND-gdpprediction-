@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/06f8dd2a5f79424fbb576ae3f5eb7796/artifacts
+end_time: 1761472684491
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: 06f8dd2a5f79424fbb576ae3f5eb7796
+run_name: RandomForestRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761472671259
+status: 3
+tags: []
+user_id: DHINESH

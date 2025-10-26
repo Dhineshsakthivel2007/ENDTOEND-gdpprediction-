@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/d65caae3e948448f9d3840f5e0bcbce6/artifacts
+end_time: 1761472129295
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: d65caae3e948448f9d3840f5e0bcbce6
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761472125331
+status: 3
+tags: []
+user_id: DHINESH
