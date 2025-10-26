@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/555389141a7e45a59fcb2a3a0aee2091/artifacts
+end_time: 1761452377527
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: 555389141a7e45a59fcb2a3a0aee2091
+run_name: DecisionTreeRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761452373657
+status: 3
+tags: []
+user_id: DHINESH

@@ -1,0 +1,10 @@
+artifact_location: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/models/m-0130267d662e4abb80048fbe8667010a/artifacts
+creation_timestamp: 1761469262937
+experiment_id: '338012762594060984'
+last_updated_timestamp: 1761469266642
+model_id: m-0130267d662e4abb80048fbe8667010a
+model_type: null
+name: model
+source_run_id: a11372ad97624d5a8c0e2d9cabc38b3f
+status: 2
+status_message: null

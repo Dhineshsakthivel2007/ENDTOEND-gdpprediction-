@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/aea5522cb3c2490fbb3fc370dcff49ce/artifacts
+end_time: 1761468802221
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: aea5522cb3c2490fbb3fc370dcff49ce
+run_name: XGBRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761468795644
+status: 3
+tags: []
+user_id: DHINESH

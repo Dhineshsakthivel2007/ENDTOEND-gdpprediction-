@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/7fe0b87496dc4771bfb3bd40e702d988/artifacts
+end_time: 1761471190596
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: 7fe0b87496dc4771bfb3bd40e702d988
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761471186793
+status: 3
+tags: []
+user_id: DHINESH

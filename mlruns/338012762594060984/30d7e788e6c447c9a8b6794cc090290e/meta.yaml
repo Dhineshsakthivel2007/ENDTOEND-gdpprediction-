@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/30d7e788e6c447c9a8b6794cc090290e/artifacts
+end_time: 1761468795621
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: 30d7e788e6c447c9a8b6794cc090290e
+run_name: GradientBoostingRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761468788171
+status: 3
+tags: []
+user_id: DHINESH
