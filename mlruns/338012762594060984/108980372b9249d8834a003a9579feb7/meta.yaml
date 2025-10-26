@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/108980372b9249d8834a003a9579feb7/artifacts
+end_time: 1761487798778
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: 108980372b9249d8834a003a9579feb7
+run_name: support vector regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761487793927
+status: 3
+tags: []
+user_id: DHINESH
