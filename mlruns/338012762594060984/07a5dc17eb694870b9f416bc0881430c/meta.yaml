@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/07a5dc17eb694870b9f416bc0881430c/artifacts
+end_time: 1761480301584
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: 07a5dc17eb694870b9f416bc0881430c
+run_name: KNeighborsRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761480297282
+status: 3
+tags: []
+user_id: DHINESH

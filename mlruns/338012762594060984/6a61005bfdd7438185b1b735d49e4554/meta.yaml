@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/endtoend%28mlflow%29/mlruns/338012762594060984/6a61005bfdd7438185b1b735d49e4554/artifacts
+end_time: 1761479000564
+entry_point_name: ''
+experiment_id: '338012762594060984'
+lifecycle_stage: active
+run_id: 6a61005bfdd7438185b1b735d49e4554
+run_name: LassoCV
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761478996683
+status: 3
+tags: []
+user_id: DHINESH
