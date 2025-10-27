@@ -9,7 +9,7 @@ with open("scaler.pkl", "rb") as f:
     scaler = pickle.load(f)
 with open("pt.pkl", "rb") as f:
     pt=pickle.load(f)
-model = models["RandomForestRegressor"] 
+model = models["XGBRegressor"] 
 st.title("gdb prediction App using ML")
 col1, col2, col3 = st.columns(3)
 
@@ -67,7 +67,6 @@ if st.button("🔍 Predict GDP"):
     gdp = model.predict(scaled_input)[0]
 
     st.success(f"### 💰 Predicted GDP ($ per capita): **{gdp:.2f}**")
-    # st.info(f"Model R² Score: {r2:.3f} | MSE: {mse:.2f}")
 
 
 st.write("---")
